@@ -39,7 +39,7 @@ Clona el repositorio en tu ambiente local y sigue los siguientes pasos:
 $ npm i learnpack -g
 ```
 
-2. Descarga los ejercicios **clonando** el proyecto o descargando el zip desde github.
+2. Descarga los ejercicios **clonando** el proyecto o descargando el zip desde Github.
 
 > Nota: Una vez termine la descarga, asegúrate de estar en el directorio correcto (te encontrarás en el subdirectorio "exercises").
 
